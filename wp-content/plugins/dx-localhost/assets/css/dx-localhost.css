@@ -1,0 +1,24 @@
+#dx-localhost-notice {
+    position: fixed;
+    height: 32px;
+    left: 0;
+    width: 100%;
+    background-color: #F0E68C;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+    opacity: 0.7;
+    z-index: 9999;
+    pointer-events: none;
+}
+
+.dx-localhost-btn {
+	color: white;
+	padding-right: 15px !important;
+	padding-left: 15px !important;
+	border: 0px;
+	width: 20em;  
+	height: 2em;
+	background-color: #25292D;
+}

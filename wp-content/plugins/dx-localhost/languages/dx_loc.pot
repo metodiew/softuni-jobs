@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DX Localhost\n"
+"POT-Creation-Date: 2015-07-06 23:54+0200\n"
+"PO-Revision-Date: 2015-07-06 23:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: DevriX <contact@devrix.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/html/devrix-interns/dx-localhost\n"
+
+#: dx-localhost/dx-localhost.php:77
+msgid "You are working on "
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:110
+msgid "DX Localhost"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:130
+msgid "DX Localhost Options"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:134
+msgid "Visibility Options"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:137
+msgid "Toolbar Visibility"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:140
+msgid "Disable Localhost Toolbar Button"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:144
+msgid "Notice Line Visibility"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:147
+msgid "Disable Notice Line"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:151
+msgid "Toolbar Button Color"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:155
+msgid "Toolbar Text Color"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:159
+msgid "Notice Line Color"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:163
+msgid "Notice Line Text Color"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:167
+msgid "Dev Environment Name:"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:173
+msgid "Dev Site IP Address:"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:233
+msgid "Localhost"
+msgstr ""

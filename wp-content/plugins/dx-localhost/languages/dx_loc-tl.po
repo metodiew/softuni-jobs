@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DX Localhost\n"
+"POT-Creation-Date: 2015-07-07 21:24+0800\n"
+"PO-Revision-Date: 2015-07-10 22:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: DevriX <contact@devrix.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fil_PH\n"
+"X-Poedit-SearchPath-0: /var/www/html/devrix-interns/dx-localhost\n"
+
+#: dx-localhost/dx-localhost.php:77
+msgid "You are working on "
+msgstr "Ikaw ay nagtatrabaho sa "
+
+#: dx-localhost/dx-localhost.php:110
+msgid "DX Localhost"
+msgstr ""
+
+#: dx-localhost/dx-localhost.php:130
+msgid "DX Localhost Options"
+msgstr "Mga Pagpipilian sa DX Localhost"
+
+#: dx-localhost/dx-localhost.php:134
+msgid "Visibility Options"
+msgstr "Pagpipilian ng Pagpapakita"
+
+#: dx-localhost/dx-localhost.php:137
+msgid "Toolbar Visibility"
+msgstr "Pagpapakita ng Toolbar"
+
+#: dx-localhost/dx-localhost.php:140
+msgid "Disable Localhost Toolbar Button"
+msgstr "Huwag paganahin ang Localhost Toolbar na buton"
+
+#: dx-localhost/dx-localhost.php:144
+msgid "Notice Line Visibility"
+msgstr "Pagpapakita ng Linya ng Paunawa"
+
+#: dx-localhost/dx-localhost.php:147
+msgid "Disable Notice Line"
+msgstr "Huwag paganahin ang Linya ng Paunawa"
+
+#: dx-localhost/dx-localhost.php:151
+msgid "Toolbar Button Color"
+msgstr "Kulay ng Toolbar na buton"
+
+#: dx-localhost/dx-localhost.php:155
+msgid "Toolbar Text Color"
+msgstr "Kulay ng mga letra sa Toolbar na button"
+
+#: dx-localhost/dx-localhost.php:159
+msgid "Notice Line Color"
+msgstr "Kulay ng Linya ng Paunawa"
+
+#: dx-localhost/dx-localhost.php:163
+msgid "Notice Line Text Color"
+msgstr "Kulay ng mga letra sa Linya ng Paunawa"
+
+#: dx-localhost/dx-localhost.php:167
+msgid "Dev Environment Name:"
+msgstr "Pangalan ng kapaligiran ng Dev:"
+
+#: dx-localhost/dx-localhost.php:173
+msgid "Dev Site IP Address:"
+msgstr "IP Adres ng Dev Site:"
+
+#: dx-localhost/dx-localhost.php:233
+msgid "Localhost"
+msgstr ""
